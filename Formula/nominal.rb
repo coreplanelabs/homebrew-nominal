@@ -12,8 +12,8 @@ class Nominal < Formula
   homepage "https://nominal.dev"
   # Scoped npm tarball URL. Note the tarball filename after `/-/` uses the
   # unscoped basename (nominal), not the full scoped name.
-  url "https://registry.npmjs.org/@coreplane/nominal/-/nominal-0.1.0.tgz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://registry.npmjs.org/@coreplane/nominal/-/nominal-0.1.3.tgz"
+  sha256 "b7108e05ebc3bf4137d57d5141d71f331c2e52aefd62c4c1685bcaa0c8f3d2d1"
   license "MIT"
 
   depends_on "node"
